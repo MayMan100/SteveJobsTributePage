@@ -1,0 +1,17 @@
+html {
+  color: azure;
+  text-align: center;
+  background-color: #e9967a;
+}
+
+hr {
+  border-color: #000000;
+  background-color: #000000;
+  border-radius: 100px;
+  height: 2px;
+}
+
+#img1 {
+  width: 500px;
+  border-radius: 100px;
+}
